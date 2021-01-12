@@ -17,7 +17,10 @@ yum install git
 ### SSH 秘钥配置登录配置
 - MAC配置拷贝文件：cp -R ~/Downloads/zhangdb2021.pem ./
 
+### 启动
 
+npm run build
+npm run start
 ## 持久存活 
 pm2 start npm -- run start --name blog-backend
 
