@@ -13,7 +13,7 @@
   "dependencies": {
     "knex": "<0.20.0",
     "mysql": "^2.18.1",
-    "qunar-sharp": "^0.22.11",
+    "sharp": "^0.27.0",
     "strapi-admin": "3.4.1",
     "strapi-connector-bookshelf": "3.4.1",
     "strapi-plugin-content-manager": "3.4.1",
